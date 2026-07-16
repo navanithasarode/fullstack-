@@ -1,0 +1,3 @@
+staging area
+working directory
+git add- store the snapshot of  working dir(results in staged changes)
